@@ -1,0 +1,7 @@
+echo "# Kote" >> LISEZMOI.md 
+git init 
+git add LISEZMOI.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/programmation6625/Kote.git
+ git push - votre origine principal
